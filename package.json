@@ -1,0 +1,53 @@
+{
+  "name": "enyi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-css-spinners": "^4.0.2",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-paginate": "^7.0.0",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-table-filter": "^2.0.2",
+    "redux": "^4.0.5",
+    "web-vitals": "^0.2.4",
+    "whatwg-fetch": "^3.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "prettier": "prettier * --write",
+    "compile:sass": "node-sass -o "
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

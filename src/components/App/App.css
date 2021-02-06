@@ -1,0 +1,52 @@
+
+
+/* Reusable Component - Image Container /
+
+/* App Styles */
+/* 
+.App {
+  font-family: "Work Sans", sans-serif;
+}
+
+input {
+  position: relative;
+  margin: 20px;
+}
+
+ul.pagination {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.active {
+  background-color: teal;
+}
+
+.pages {
+  width: 20px;
+}
+
+li:not(:first-of-type) {
+  border-radius: 5px;
+  text-align: center;
+  width: 30px;
+}
+
+li.disabled {
+  visibility: hidden;
+}
+
+div.filter-label {
+  color: black;
+}
+
+input.form-control {
+  width: 300px;
+  height: 30px;
+  margin: 5px 0;
+  align-self: center;
+} */
